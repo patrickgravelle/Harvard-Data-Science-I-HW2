@@ -1,4 +1,4 @@
-# Harvard-Data-Science-I-HW2
+# Harvard Data Science I HW2
 
 ## About
 
